@@ -18,13 +18,13 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
+title: Mohan Dhanwani
+description: "Digital Marketing Automation Expert from Jaipur, India"
+keywords: "Digital Marketing Automation, Digital Marketing"
+url: https://mohadhanwani.com
 baseurl: "/mohan"
 
-google_analytics: UA-52446115-1
+google_analytics: 
 repo: http://github.com/nandomoreirame/end2end
 disqus_shortname: ""
 disqus_site_shortname: ""
