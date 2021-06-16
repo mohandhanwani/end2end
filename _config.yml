@@ -22,25 +22,25 @@ title: end2end
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 url: http://nandomoreira.me
-baseurl: "/end2end"
+baseurl: "/mohan"
 
 google_analytics: UA-52446115-1
 repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+disqus_shortname: ""
+disqus_site_shortname: ""
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Mohan Dhanwani
+  job: Marketing Automation Freelancer
+  bio: "I help Business Owners, and Marketing Professionals in creating Effective Marketing Automation Campaigns, Websites, and Implementing the tools, and much more."
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: mohanlaldhanwani@gmail.com
+  url: https://mohandhanwani.com/
+  github: https://github.com/mohandhanwani
+  twitter: https://twitter.com/tsubasa_mohan
+  facebook: https://facebook.com/tsubasa.mohan
+  linkedin: https://linkedin.com/in/mohanlaldhanwani
 
 # navbar pages
 navbar:
