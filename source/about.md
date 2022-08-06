@@ -4,8 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This side Mohan Dhanwani, I help Business Owners & Digital Marketing Professionals in creating better Automation Campaigns that are efficient, & easy to Track. Thus, making it easier to make faster decisions on Marketing Campaigns & achieving better results.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I’m also a B-boy (this is where the Beast Mode comes from), Otaku & I like watching Korean Dramas 😉
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+What I Do:
+I help Small Business Owners & Marketing Professions in unlocking the Beast Mode of Digital Marketing Automation. Which is a Customer Value Optimized way of Automation. Plus, making sure that checking results is easier based on KPIs. So, you can find data to make effective decisions.
+
+For Individuals, here … on the Website, I share the Tips, Tools & Resources related to Marketing Automation, WordPress Websites, and learning Korean.
+
+If you are a Business, interested in working with me. Here’s the list of Services that I offer:
+
+Funnel Based Tracking Implementation
+InfusionSoft/Email Campaign Automation
+Website Tools Suggestion & Implementation
+Video Editing for your Video Needs
+Live Calls & Support on Automation
+Contact me
+Email : mohan@mohandhanwani.com Website : [https://mohandhanwani.com](https://mohandhanwani.com)
